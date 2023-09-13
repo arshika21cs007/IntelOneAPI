@@ -6,7 +6,7 @@ It uses datasets containing historical information about individuals' health att
 These datasets serve as the basis for training and evaluating machine learning models. 
 
 ## Features
-- Predicts the likelihood of heart disease based on various input features.
+There are some common features found in heart disease prediction dataset such as
 
 ### Prerequisites
 - Python 3
