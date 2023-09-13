@@ -19,9 +19,10 @@
  
  
  **Importance of Heart disease Prediction**
- <li>1.Predicting heart disease risk allows for early intervention. 
- 2.Heart disease is a leading cause of death worldwide. Accurate prediction models can help reduce mortality rates by identifying high-risk individuals who can then receive timely medical attention and lifestyle guidance.
- 3.Preventing heart disease is more cost-effective than treating advanced stages of the disease. </li>
+ <li>Predicting heart disease risk allows for early intervention.</li> 
+ <li>Heart disease is a leading cause of death worldwide. Accurate prediction models can help reduce mortality rates by identifying high-risk individuals who can then receive timely medical attention and 
+     lifestyle guidance.</li>
+ <li>Preventing heart disease is more cost-effective than treating advanced stages of the disease. </li>
 
  
  <h2>TECHNOLOGIES USED</h2>
