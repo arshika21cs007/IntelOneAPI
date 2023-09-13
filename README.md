@@ -52,17 +52,21 @@
  
  <br/>
  
- <div align="center">
+<div align="center">
     <centre><h2> openVINO notebook</centre><br />
        </div>
+       <p align="center">
+        <img src="intelone.png" width="400" height="240" >  
+      </p>
  
-       <img src="intelone.png" width="400" height="240" >   
  <div align="center">
     <centre><h2>local machine's notebook
  </centre><br />
        </div>
  
-       <img src="jupyterhub.png" width="400" height="240" >
+       <p align="center">
+        <img src="jupyterhub.png" width="400" height="240" >  
+      </p>
 
  
  
