@@ -1,9 +1,9 @@
-
 # Heart Disease Prediction
+Predicting probability of heart disease in patients.
 
 ## Overview
-
-This project is a machine learning-based heart disease prediction system. It is designed to assist in the early detection and prediction of heart diseases, helping medical professionals and patients make informed decisions regarding heart health.
+It uses datasets containing historical information about individuals' health attributes. 
+These datasets serve as the basis for training and evaluating machine learning models. 
 
 ## Features
 - Predicts the likelihood of heart disease based on various input features.
