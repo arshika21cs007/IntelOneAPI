@@ -63,8 +63,7 @@
     <centre><h2>local machine's notebook
  </centre><br />
        </div>
- 
-       <p align="center">
+      <p align="center">
         <img src="jupyterhub.png" width="400" height="240" >  
       </p>
 
