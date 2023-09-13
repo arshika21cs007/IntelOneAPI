@@ -1,0 +1,12 @@
+
+# Heart Disease Prediction
+
+## Overview
+
+This project is a machine learning-based heart disease prediction system. It is designed to assist in the early detection and prediction of heart diseases, helping medical professionals and patients make informed decisions regarding heart health.
+
+## Features
+- Predicts the likelihood of heart disease based on various input features.
+
+### Prerequisites
+- Python 3
