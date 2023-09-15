@@ -1,5 +1,5 @@
 <div align="center">
-    <centre><h1>HEART DISEASE PREDICTION</centre><br />
+    <centre><h1>CARDIOVASCULAR RISK PREDICTION</centre><br />
        </div>
  
  
@@ -7,18 +7,19 @@
  <p align="center">
    <img src="heart.jpg" width="400" height="240" >
  </p>
- Heart disease prediction is crucial for improving health outcomes, saving lives, reducing healthcare costs, and promoting a healthier society.The leading cause of death in the developed world is heart disease. 
+  Cardiovascular Risk prediction is crucial for improving health outcomes, saving lives, reducing healthcare costs, and promoting a healthier society.The leading cause of death in the developed world is heart 
+  disease. 
  Therefore there needs to be work done to help prevent the risks of of having a heart attack or stroke.
 
 
  <h2>ABOUT</h2>
  
- **What is Heart disease Prediction?**
+ **What is Cardiovascular Risk Prediction?**
  
- Heart disease prediction involves analyzing various health-related factors and historical data to predict the likelihood of a person experiencing cardiovascular problems or heart-related conditions in the future.
+ Cardiovascular Risk prediction involves analyzing various health-related factors and historical data to predict the likelihood of a person experiencing cardiovascular problems or heart-related conditions in the future.
  
  
- **Importance of Heart disease Prediction**
+ **Importance of Cardiovascular Risk Prediction**
  <li>Predicting heart disease risk allows for early intervention.</li> 
  <li>Heart disease is a leading cause of death worldwide. Accurate prediction models can help reduce mortality rates by identifying high-risk individuals who can then receive timely medical attention and 
      lifestyle guidance.</li>
