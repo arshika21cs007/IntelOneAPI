@@ -5,7 +5,7 @@
  
        
  <p align="center">
-   <img src="Heart.jpg" width="400" height="240" >
+   <img src="Heart.jpg" width="350" height="250" >
  </p>
   Cardiovascular Risk prediction is crucial for improving health outcomes, saving lives, reducing healthcare costs, and promoting a healthier society.The leading cause of death in the developed world is heart 
   disease. 
