@@ -49,7 +49,7 @@
  
  **CODES IN DIFFERENT PLATFORMS:**
  
- It tooks nearly  2 seconds to  37 milliseconds to run single keras model files in Jupyterhub
+ It tooks nearly  2 seconds to  37 milliseconds to run single keras model files in Jupyterhub.
  But in OPENVINO it took 2 milliseconds to 10 milliseconds to run it where this keras model consist of 50 files to run it and make to fit for the model.
  
  <br/>
